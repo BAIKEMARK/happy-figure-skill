@@ -1,8 +1,8 @@
-# Happy Figure Skill 中文版
+# Happy Figure Skill
 
 把论文内容变成可控、可检查、可复制的科研绘图提示词。
 
-`happy-figure-skill-zh` 是 [Happy Figure](https://github.com/datawhalechina/happy-figure) 的配套 Agent Skill。它面向中文科研用户，帮助你从论文摘要、方法段、图注、研究方案或开题材料中提取绘图逻辑，并生成适合 Nano Banana Pro、Qwen Image、gpt-image 等模型使用的结构化 prompt。
+`happy-figure-skill` 是 [Happy Figure](https://github.com/datawhalechina/happy-figure) 的配套 Agent Skill。它面向中文科研用户，帮助你从论文摘要、方法段、图注、研究方案或开题材料中提取绘图逻辑，并生成适合 Nano Banana Pro、Qwen Image、gpt-image 等模型使用的结构化 prompt。
 
 它不直接生成图片，也不替代作者判断科学事实。它做的事情更聚焦：**帮你把“这篇论文该怎么画”整理成一段更稳、更清楚、更容易交给绘图模型执行的提示词。**
 
@@ -27,7 +27,7 @@ npx skills add BAIKEMARK/happy-figure-skill
 安装完成后，默认调用名是：
 
 ```text
-$happy-figure-skill-zh
+$happy-figure-skill
 ```
 
 ### 方式二：让 Agent 帮你安装
@@ -35,7 +35,7 @@ $happy-figure-skill-zh
 你也可以把下面这段话直接发给支持 shell 的 Agent：
 
 ```text
-帮我安装 Happy Figure 中文 Agent Skill：
+帮我安装 Happy Figure Agent Skill：
 
 1. 从 GitHub 克隆 BAIKEMARK/happy-figure-skill。
 2. 按照 Codex/Claude Skills 的本地规范安装这个 Skill。
@@ -46,25 +46,25 @@ $happy-figure-skill-zh
 ## 快速使用
 
 ```text
-使用 $happy-figure-skill-zh，读取下面这段论文摘要，生成一个适合 Nano Banana Pro 的图形摘要 prompt。
+使用 $happy-figure-skill，读取下面这段论文摘要，生成一个适合 Nano Banana Pro 的图形摘要 prompt。
 ```
 
 指定图类型：
 
 ```text
-使用 $happy-figure-skill-zh，根据这段 methods 生成一个技术路线图 prompt，图中文字只保留英文短标签。
+使用 $happy-figure-skill，根据这段 methods 生成一个技术路线图 prompt，图中文字只保留英文短标签。
 ```
 
 指定领域风格：
 
 ```text
-使用 $happy-figure-skill-zh，把这段材料化学机制描述转成 Nature Materials 风格的机制示意图 prompt。
+使用 $happy-figure-skill，把这段材料化学机制描述转成 Nature Materials 风格的机制示意图 prompt。
 ```
 
 只要最终 prompt：
 
 ```text
-使用 $happy-figure-skill-zh，只输出最终绘图 prompt，不要解释过程。
+使用 $happy-figure-skill，只输出最终绘图 prompt，不要解释过程。
 ```
 
 ## 适合场景
@@ -78,10 +78,6 @@ $happy-figure-skill-zh
 | 生物医学机制图 | 梳理细胞、分子、通路、干预关系和可见标签 |
 | 开题 / 答辩 / 组会总览图 | 把研究问题、技术路线和预期结果整理成汇报图 prompt |
 
-## 英文版
-
-仓库中同时保留英文版 Skill，位于 [`english/`](english/) 目录。默认安装入口仍然是中文版，适合中文用户和 Datawhale 教程读者直接使用；英文版可用于英文论文、英文标签或英文 Agent 工作流。
-
 ## 注意边界
 
 - 它适合生成定性示意图、机制图、方法框架图、图形摘要和展示型科研图。
@@ -89,10 +85,22 @@ $happy-figure-skill-zh
 - 生成图片后，正式投稿前仍建议人工校对科学结构、文字标签和箭头关系。
 - 对于投稿正文图，建议把 AI 输出作为构图参考，再进行人工重绘、矢量化或重新排字。
 
+## 后续处理建议
+
+拿到最终 prompt 并生成图片后，不建议直接把 AI 输出图当作论文终稿。对于正式投稿、长期维护或需要反复修改的插图，建议将生成结果作为构图参考，再进入人工重绘或矢量化重构阶段。
+
+常见路径包括：
+
+- 用 PPT、Figma、Visio 等工具参考重绘结构，适合流程图、系统架构图和逻辑关系明确的示意图。
+- 用 Illustrator、Vectorizer 等工具做基础矢量化，再人工清理路径、重排文字和统一线条。
+- 对规则性强的图形，可以参考生成结果，用 Matplotlib 等代码方式重建可控矢量图。
+
+这个 Skill 负责把科研内容转化为高质量绘图 prompt；最终图像是否符合投稿、署名、版权和事实准确性要求，仍需要作者完成检查、编辑和重构。
+
 ## 和 Happy Figure 教程的关系
 
 Happy Figure 教程讲方法论：如何理解科研绘图、如何设计提示词、如何控图、如何处理学术合规。
 
-`happy-figure-skill-zh` 则把这套方法变成 Agent 可以直接调用的工作流：读论文内容，判断图类型，选择领域视觉语言，生成可复制的绘图 prompt。
+`happy-figure-skill` 则把这套方法变成 Agent 可以直接调用的工作流：读论文内容，判断图类型，选择领域视觉语言，生成可复制的绘图 prompt。
 
 教程负责让你理解为什么这样画；Skill 负责帮你更快开始画。

@@ -82,7 +82,7 @@
 - 保持与现有领域母版一致的两阶段结构。
 - Stage 2 中保留 `{VISIBLE_TEXT_RULE}` 占位符。
 - 如果该领域可能复用，增加或更新 eval fixture。
-- 如果同时存在英文版和中文版 skill，默认同步更新两边；除非用户明确只更新某一版。
+- 如果用户确认保存新母版，只更新当前 Skill 的 `references/domain-masters.md`。
 
 ## 模式 B：参考图风格补丁
 
