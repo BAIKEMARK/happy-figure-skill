@@ -18,16 +18,16 @@
 
 ### 方式一：npx 安装
 
-如果本 Skill 已经发布为独立仓库，可直接安装：
+直接使用 `npx skills add` 安装：
 
 ```bash
 npx skills add BAIKEMARK/happy-figure-skill
 ```
 
-如果后续迁移到 Datawhale 组织仓库，则使用：
+安装完成后，默认调用名是：
 
-```bash
-npx skills add datawhalechina/happy-figure-skill
+```text
+$happy-figure-skill-zh
 ```
 
 ### 方式二：让 Agent 帮你安装
@@ -42,8 +42,6 @@ npx skills add datawhalechina/happy-figure-skill
 3. 安装完成后检查目录中是否包含 SKILL.md、README.md、references/ 和 scripts/。
 4. 给我一条可以直接测试的调用示例。
 ```
-
-> 如果你是从 Happy Figure 主教程仓库看到这里，建议优先安装独立 Skill 仓库版本，而不是克隆整个教程仓库。这样更轻，也更方便后续更新。
 
 ## 快速使用
 
@@ -82,7 +80,7 @@ npx skills add datawhalechina/happy-figure-skill
 
 ## 英文版
 
-仓库中同时保留英文版 Skill，位于 [`english/`](english/) 目录。默认安装入口仍然是中文版，适合中文用户和 Datawhale 教程读者直接使用；英文版可作为后续国际传播或单独发布的基础版本。
+仓库中同时保留英文版 Skill，位于 [`english/`](english/) 目录。默认安装入口仍然是中文版，适合中文用户和 Datawhale 教程读者直接使用；英文版可用于英文论文、英文标签或英文 Agent 工作流。
 
 ## 注意边界
 
