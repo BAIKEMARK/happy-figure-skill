@@ -6,12 +6,20 @@
   </a>
 </p>
 
+<h3 align="center">🚀 把科研内容编译成可控、可校对、可复用的 AI 绘图 Prompt 💡</h3>
+
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/BAIKEMARK/happy-figure-skill?style=for-the-badge&logo=github&label=Stars&logoColor=white&color=ffda65)](https://github.com/BAIKEMARK/happy-figure-skill/stargazers)
+[![Happy Figure Tutorial](https://img.shields.io/badge/Happy%20Figure-Tutorial-6D5EF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/datawhalechina/happy-figure)
+<a href="https://qm.qq.com/q/ZEfzKSQ5CW"><img alt="QQ reader group" src="https://img.shields.io/badge/QQ%20Group-Reader%20Community-12B7F5?style=for-the-badge&logo=qq&logoColor=white"></a>
+
+</div>
+
 <p align="center">
-  <a href="https://github.com/datawhalechina/happy-figure"><img alt="Happy Figure Tutorial" src="https://img.shields.io/badge/Tutorial-Happy%20Figure-6D5EF8?style=flat-square"></a>
-  <a href="README_EN.md"><img alt="English README" src="https://img.shields.io/badge/README-English-2F80ED?style=flat-square"></a>
-  <a href="https://github.com/BAIKEMARK/happy-figure-skill/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/BAIKEMARK/happy-figure-skill?style=flat-square"></a>
-  <a href="https://github.com/BAIKEMARK/happy-figure-skill/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square"></a>
-  <a href="https://qm.qq.com/q/ZEfzKSQ5CW"><img alt="QQ reader group" src="https://img.shields.io/badge/QQ%20Group-Reader%20Community-12B7F5?style=flat-square"></a>
+  简体中文 ｜
+  <a href="README_EN.md">English</a> ｜
+  <a href="LICENSE">License</a>
 </p>
 
 
