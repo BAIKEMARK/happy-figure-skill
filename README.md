@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/BAIKEMARK/happy-figure-skill?style=for-the-badge&logo=github&label=Stars&logoColor=white&color=ffda65)](https://github.com/BAIKEMARK/happy-figure-skill/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/BAIKEMARK/happy-figure-skill?style=for-the-badge&logo=github&label=Stars&logoColor=white&color=ffda65&cacheSeconds=300)](https://github.com/BAIKEMARK/happy-figure-skill/stargazers)
 [![Happy Figure Tutorial](https://img.shields.io/badge/Happy%20Figure-Tutorial-6D5EF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/datawhalechina/happy-figure)
 <a href="https://qm.qq.com/q/ZEfzKSQ5CW"><img alt="QQ reader group" src="https://img.shields.io/badge/QQ%20Group-Reader%20Community-12B7F5?style=for-the-badge&logo=qq&logoColor=white"></a>
 
@@ -243,11 +243,13 @@ Happy Figure 教程讲方法论，覆盖：如何理解科研绘图、如何设�
 
 接下来会继续补更多真实论文案例、更多领域母版、更多模型对比和更完整的科研绘图质量检查规则。
 
+<a href="https://www.star-history.com/?repos=BAIKEMARK%2Fhappy-figure-skill&type=date&logscale=&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=BAIKEMARK/happy-figure-skill&type=date&theme=dark&logscale&legend=top-left" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=BAIKEMARK/happy-figure-skill&type=date&logscale&legend=top-left" />
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=BAIKEMARK/happy-figure-skill&type=date&logscale&legend=top-left" />
  </picture>
+</a>
 
 ## License
 
