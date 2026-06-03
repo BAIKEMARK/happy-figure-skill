@@ -19,6 +19,7 @@
 <p align="center">
   <a href="README.md">简体中文</a> ｜
   English ｜
+  <a href="#-quick-start">Quick Start</a> ｜
   <a href="LICENSE">License</a>
 </p>
 

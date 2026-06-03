@@ -19,6 +19,7 @@
 <p align="center">
   简体中文 ｜
   <a href="README_EN.md">English</a> ｜
+  <a href="#-快速开始">快速开始</a> ｜
   <a href="LICENSE">License</a>
 </p>
 
@@ -150,7 +151,7 @@
 | 未知或交叉领域 | 自适应领域母版，从参考材料和领域语义生成新母版草案 | 地球科学、环境、能源系统、农业、心理学、公共卫生、政策建模等 |
 | 参考图风格迁移 | 只抽取可迁移的布局、配色、线条、字体和层级，不复制科学内容 | “按这张图的风格画”，但保持本论文自己的科学结构 |
 
-## ⚡ 30 秒开始
+## ⚡ 快速开始
 
 ```bash
 npx skills add BAIKEMARK/happy-figure-skill
