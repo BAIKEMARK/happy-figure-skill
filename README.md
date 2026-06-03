@@ -49,45 +49,47 @@
   </tr>
   <tr>
     <td><b>CS/ML 架构图</b><br><sub>model architecture</sub></td>
-    <td align="center"><a href="./showcase/view/attention__qwen-image-2.md"><img src="./showcase/thumbs/attention__qwen-image-2.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/attention__qwen-image-2-pro.md"><img src="./showcase/thumbs/attention__qwen-image-2-pro.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/attention__nano-banana-2.md"><img src="./showcase/thumbs/attention__nano-banana-2.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/attention__nano-banana-pro.md"><img src="./showcase/thumbs/attention__nano-banana-pro.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/attention__gpt-image-2.md"><img src="./showcase/thumbs/attention__gpt-image-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/attention__qwen-image-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/attention__qwen-image-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/attention__qwen-image-2-pro.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/attention__qwen-image-2-pro.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/attention__nano-banana-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/attention__nano-banana-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/attention__nano-banana-pro.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/attention__nano-banana-pro.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/attention__gpt-image-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/attention__gpt-image-2.webp" width="160"></a></td>
   </tr>
   <tr>
     <td><b>文档智能流程图</b><br><sub>document pipeline / KG</sub></td>
-    <td align="center"><a href="./showcase/view/docs2kg__qwen-image-2.md"><img src="./showcase/thumbs/docs2kg__qwen-image-2.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/docs2kg__qwen-image-2-pro.md"><img src="./showcase/thumbs/docs2kg__qwen-image-2-pro.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/docs2kg__nano-banana-2.md"><img src="./showcase/thumbs/docs2kg__nano-banana-2.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/docs2kg__nano-banana-pro.md"><img src="./showcase/thumbs/docs2kg__nano-banana-pro.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/docs2kg__gpt-image-2.md"><img src="./showcase/thumbs/docs2kg__gpt-image-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/docs2kg__qwen-image-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/docs2kg__qwen-image-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/docs2kg__qwen-image-2-pro.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/docs2kg__qwen-image-2-pro.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/docs2kg__nano-banana-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/docs2kg__nano-banana-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/docs2kg__nano-banana-pro.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/docs2kg__nano-banana-pro.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/docs2kg__gpt-image-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/docs2kg__gpt-image-2.webp" width="160"></a></td>
   </tr>
   <tr>
     <td><b>材料化学机制图</b><br><sub>materials chemistry mechanism</sub></td>
-    <td align="center"><a href="./showcase/view/wis-lintf2__qwen-image-2.md"><img src="./showcase/thumbs/wis-lintf2__qwen-image-2.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/wis-lintf2__qwen-image-2-pro.md"><img src="./showcase/thumbs/wis-lintf2__qwen-image-2-pro.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/wis-lintf2__nano-banana-2.md"><img src="./showcase/thumbs/wis-lintf2__nano-banana-2.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/wis-lintf2__nano-banana-pro.md"><img src="./showcase/thumbs/wis-lintf2__nano-banana-pro.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/wis-lintf2__gpt-image-2.md"><img src="./showcase/thumbs/wis-lintf2__gpt-image-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/wis-lintf2__qwen-image-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/wis-lintf2__qwen-image-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/wis-lintf2__qwen-image-2-pro.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/wis-lintf2__qwen-image-2-pro.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/wis-lintf2__nano-banana-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/wis-lintf2__nano-banana-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/wis-lintf2__nano-banana-pro.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/wis-lintf2__nano-banana-pro.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/wis-lintf2__gpt-image-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/wis-lintf2__gpt-image-2.webp" width="160"></a></td>
   </tr>
   <tr>
     <td><b>生物医学机制图</b><br><sub>biomedicine mechanism</sub></td>
-    <td align="center"><a href="./showcase/view/ferroptosis-rcd__qwen-image-2.md"><img src="./showcase/thumbs/ferroptosis-rcd__qwen-image-2.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/ferroptosis-rcd__qwen-image-2-pro.md"><img src="./showcase/thumbs/ferroptosis-rcd__qwen-image-2-pro.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/ferroptosis-rcd__nano-banana-2.md"><img src="./showcase/thumbs/ferroptosis-rcd__nano-banana-2.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/ferroptosis-rcd__nano-banana-pro.md"><img src="./showcase/thumbs/ferroptosis-rcd__nano-banana-pro.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/ferroptosis-rcd__gpt-image-2.md"><img src="./showcase/thumbs/ferroptosis-rcd__gpt-image-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/ferroptosis-rcd__qwen-image-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/ferroptosis-rcd__qwen-image-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/ferroptosis-rcd__qwen-image-2-pro.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/ferroptosis-rcd__qwen-image-2-pro.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/ferroptosis-rcd__nano-banana-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/ferroptosis-rcd__nano-banana-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/ferroptosis-rcd__nano-banana-pro.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/ferroptosis-rcd__nano-banana-pro.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/ferroptosis-rcd__gpt-image-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/ferroptosis-rcd__gpt-image-2.webp" width="160"></a></td>
   </tr>
   <tr>
     <td><b>地球科学解释图</b><br><sub>earth science explanation</sub></td>
-    <td align="center"><a href="./showcase/view/earth-aurora__qwen-image-2.md"><img src="./showcase/thumbs/earth-aurora__qwen-image-2.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/earth-aurora__qwen-image-2-pro.md"><img src="./showcase/thumbs/earth-aurora__qwen-image-2-pro.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/earth-aurora__nano-banana-2.md"><img src="./showcase/thumbs/earth-aurora__nano-banana-2.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/earth-aurora__nano-banana-pro.md"><img src="./showcase/thumbs/earth-aurora__nano-banana-pro.webp" width="160"></a></td>
-    <td align="center"><a href="./showcase/view/earth-aurora__gpt-image-2.md"><img src="./showcase/thumbs/earth-aurora__gpt-image-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/earth-aurora__qwen-image-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/earth-aurora__qwen-image-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/earth-aurora__qwen-image-2-pro.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/earth-aurora__qwen-image-2-pro.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/earth-aurora__nano-banana-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/earth-aurora__nano-banana-2.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/earth-aurora__nano-banana-pro.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/earth-aurora__nano-banana-pro.webp" width="160"></a></td>
+    <td align="center"><a href="https://github.com/BAIKEMARK/happy-figure-showcase-assets/blob/main/hd/earth-aurora__gpt-image-2.png"><img src="https://raw.githubusercontent.com/BAIKEMARK/happy-figure-showcase-assets/main/thumbs/earth-aurora__gpt-image-2.webp" width="160"></a></td>
   </tr>
 </table>
+
+> 🔎 完整提示词和 5 x 5 映射表放在 [showcase assets](https://github.com/BAIKEMARK/happy-figure-showcase-assets/tree/main/prompts) 里，主仓库只保留 Skill 本体。
 
 > 💡 TIPS：同系列模型通常会保留相近的默认画风。Qwen 2 系列有独特的科研插图质感，适合低成本多抽卡，但复杂图可能破碎，文字越多错字率越高；Nano 系列更像平面科研插画，AI 味更明显，容易把 `ZONE` 这类结构词画进图里；GPT Image 2 的文字和结构更稳，画风更偏干净矢量底稿，和 Nano / Qwen 不是同一路线。
 
