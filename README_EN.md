@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/datawhalechina/happy-figure"><img alt="Happy Figure Tutorial" src="https://img.shields.io/badge/Tutorial-Happy%20Figure-6D5EF8?style=flat-square"></a>
   <a href="https://github.com/BAIKEMARK/happy-figure-skill/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/BAIKEMARK/happy-figure-skill?style=flat-square"></a>
-  <a href="https://github.com/BAIKEMARK/happy-figure-skill/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/BAIKEMARK/happy-figure-skill?style=flat-square"></a>
+  <a href="https://github.com/BAIKEMARK/happy-figure-skill/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square"></a>
   <a href="https://qm.qq.com/q/ZEfzKSQ5CW"><img alt="QQ reader group" src="https://img.shields.io/badge/QQ%20Group-Reader%20Community-12B7F5?style=flat-square"></a>
 </p>
 
@@ -238,4 +238,4 @@ We will keep adding real paper cases, domain masters, model comparisons, and bet
 
 ## License
 
-MIT © Happy Figure contributors
+This project is licensed under CC BY-NC-SA 4.0. See [LICENSE](LICENSE) for details.
